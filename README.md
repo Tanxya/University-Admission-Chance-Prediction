@@ -80,9 +80,6 @@ The dataset includes:
 - Integrate additional advanced algorithms.
 - Deploy the application on a cloud platform.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ---
 
 **Contributors**: Feel free to fork the repository and contribute!
